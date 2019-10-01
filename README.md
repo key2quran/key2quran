@@ -1,2 +1,4 @@
-# Schlüssel zum Quran
-![](book.png)
+<Center>
+  # Schlüssel zum Quran
+  ![](book.png)
+</Center
