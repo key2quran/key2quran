@@ -1,2 +1,2 @@
 # Schlüssel zum Quran
-![book][./book.png]
+![book][book.png]
