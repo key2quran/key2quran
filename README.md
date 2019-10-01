@@ -1,5 +1,4 @@
-<Center>
-  # Schlüssel zum Quran
-  
-  ![](book.png)
-</Center
+<p align="center">
+   <b>Schlüssel zum Quran</b>
+   <img src="book.png">
+</p>
