@@ -1,5 +1,5 @@
 <p align="center">
-   <b> Schlüssel zum Quran </b>
+   <H1> Schlüssel zum Quran </H1>
    <br>
    <img src="book.png">
 </p>
