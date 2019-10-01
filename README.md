@@ -3,6 +3,4 @@
    <H2> Band I</H2>
    <br>
    <img src="book.png">
-   <br>
-   <b>PREIS: 9,99 EURO </b>
 </p>
