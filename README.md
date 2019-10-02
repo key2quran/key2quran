@@ -4,9 +4,3 @@
    <br>
    <img width = "100%" src="book.png">
 </p>
-
-# Ueberschrift
-_kursiv
-__fett__
-
-![book.png](book.png)
